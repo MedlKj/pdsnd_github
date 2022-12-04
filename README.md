@@ -6,12 +6,14 @@
 ### Project Title
 #Udacity Nanodegree program : Github Project
 
-### D
+### Description
 in this project we use Github to post our Python project 
 
 ### Files used
-    [Git-KeyTerms.pdf](http://video.udacity-data.com.s3.amazonaws.com/topher/2017/March/58d31eb5_ud123-git-keyterms/ud123-git-keyterms.pdf)
-    [Git command doc](https://git-scm.com/docs/user-manual)
+
+[Git-KeyTerms.pdf](http://video.udacity-data.com.s3.amazonaws.com/topher/2017/March/58d31eb5_ud123-git-keyterms/ud123-git-keyterms.pdf
+
+[Git command doc](https://git-scm.com/docs/user-manual)
 
 
 
